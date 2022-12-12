@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.6.0",
     "http-status": "^1.4.2",
     "node-fetch": "^2.6.0",
